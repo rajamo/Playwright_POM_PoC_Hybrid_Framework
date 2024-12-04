@@ -1,0 +1,69 @@
+{
+    "brokerNewRegistrationDetails": {
+        "emailID": "brokertest22@prolificsteam229043.testinator.com",
+        "title": "Mr",
+        "fullname": "testerauto",
+        "jobtitle": "Senior Advisor",
+        "password":"Welcome1!",
+        "secondChar":"1"
+    },
+    "organisationDetails": {
+        "fcaNumber": "999199",
+        "organisationName": "testOrganisation",
+        "tradingNme": "testTrading",
+        "postCode": "BD11JB",
+        "Address": "Apartment 206,Landmark House,11 Broadway,Bradford,West Yorkshire",
+        "phoneNumber": "07408787057",
+        "networkTitle": "Primis (AMF)",
+        "mortgageClub": "Dynamo"
+    },
+
+    "customerdetails": {
+        "forename": "Test",
+        "surname": "Demo7Automation",
+        "userid": "950889",
+        "newsurname":"Demo8Automation"
+    },
+    
+
+    "existingbrokerLogin": {
+        "brokerLoginUsername": "brokertest6@prolificsteam229043.testinator.com",
+        "brokerLoginPassword": "Welcome!"
+    },
+
+    "mailinator": {
+        "username": "Sarah.Phougat@Prolifics-Testing.com",
+        "password": "Welcome1!"
+    },
+
+    "onlineadmin": {
+        "username": "prolifics",
+        "password": "Welcome1!"
+    },
+
+
+    "marketingDetails": {
+        "marketEmail": "Yes",
+        "marketPost": "No",
+        "marketMobile": "No"
+    },
+
+    "securtiyDetails": {
+        "secPassword": "Welcome1234$",
+        "secPasswordConfirm": "Welcome1234$",
+        "secMemorable": "prolifics",
+        "secMemorableConfirm": "prolifics"
+    },
+
+    "digitalSignatureDetails": {
+        "pdfTypeSign": "Tester",
+        "pdfTypeEmail": "raja.mohan@prolifics-testing.com"
+    },
+
+    "secureMessage": {
+        "composeEmailSubject": "TestMessage",
+        "composeEmailBody": "This is test secure message."
+    }
+
+
+}
